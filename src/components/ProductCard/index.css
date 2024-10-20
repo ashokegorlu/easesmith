@@ -1,0 +1,14 @@
+.plant_images{
+    height: 300px;
+    width: 300px;
+}
+
+.v_btn_{
+    padding: 12px;
+    border-radius: 12px;
+}
+
+.v_btn_:hover{
+    background-color: black;
+    color: wheat;
+}
